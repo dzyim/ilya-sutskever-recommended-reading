@@ -9,16 +9,16 @@
 
 ## 
 
-- **The Annotated Transformer.** Sasha Rush, et al. [[Blog]](https://nlp.seas.harvard.edu/annotated-transformer/) [[GitHub]](https://github.com/harvardnlp/annotated-transformer/)
+- **The Annotated Transformer.** Sasha Rush, et al. [[Blog]](https://nlp.seas.harvard.edu/annotated-transformer/) [[Code]](https://github.com/harvardnlp/annotated-transformer/)
 - **The First Law of Complexodynamics.** Scott Aaronson. [[Blog]](https://scottaaronson.blog/?p=762)
-- **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [[Code]](https://github.com/karpathy/char-rnn)
 - **Understanding LSTM Networks.** Christopher Olah. [[Blog]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329)
-- **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.** Geoffrey E. Hinton and Drew van Camp.
-- **Pointer Networks.** Oriol Vinyals, et al.
-- **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al.
-- **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al.
-- **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al.
+- **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329) [[Code]](https://github.com/wojzaremba/lstm)
+- **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.** Geoffrey E. Hinton and Drew van Camp. [[Paper]](https://dl.acm.org/doi/10.1145/168304.168306) [[pdf]](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)
+- **Pointer Networks.** Oriol Vinyals, et al. [[Paper]](https://papers.nips.cc/paper/5866-pointer-networks) [[pdf]](https://arxiv.org/pdf/1506.03134)
+- **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al. [[Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al. [[ArXiv]](https://arxiv.org/abs/1511.06391) [[pdf]](https://arxiv.org/pdf/1511.06391)
+- **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965)
 - **Deep Residual Learning for Image Recognition.** Kaiming He, et al.
 - **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun.
 - **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al.
